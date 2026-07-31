@@ -17,4 +17,6 @@
 
 Welcome to my **Certifications Repository**.
 
+This repository contains all of my verified certificates earned through various online learning platforms, coding challenges, and technical training programs.
+
 
