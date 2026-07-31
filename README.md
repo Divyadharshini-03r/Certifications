@@ -53,7 +53,13 @@ These certifications demonstrate my commitment to continuous learning and stayin
 ### 💻 Programming
 - Java
 - JavaScript
-
+- 
+### 🌐 Web Development
+- HTML
+- CSS
+- React
+- Spring Boot
+- Node.js
 
 
 
