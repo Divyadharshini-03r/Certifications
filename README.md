@@ -4,12 +4,6 @@
 
 ### A curated collection of my verified certifications, achievements, and continuous learning journey.
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Always+Learning+🚀;Building+Skills+Every+Day;Certified+in+Modern+Technologies;Lifelong+Learner+💡" />
-
-![Visitors](https://komarev.com/ghpvc/?username=Divyadharshini-03r&repo=Certifications&label=Repository+Views&color=0e75b6&style=for-the-badge)
-
-</div>
-
 ---
 
 # 📖 About
@@ -22,13 +16,10 @@ These certifications reflect my commitment to continuous learning and staying up
 
 - 💻 Software Development
 - 🤖 Artificial Intelligence
-- ☁️ Cloud Computing
 - 🌐 Web Development
 - 📊 Data Science
 - 🔒 Cyber Security
 - 🗄️ Databases
-- ⚙️ DevOps
-- 🎨 UI/UX Design
 
 ---
 
@@ -37,15 +28,10 @@ These certifications reflect my commitment to continuous learning and staying up
 ```
 📂 Certifications
 │
-├── ☁️ Cloud
 ├── 🤖 Artificial Intelligence
 ├── 💻 Programming
 ├── 🌐 Web Development
-├── 🔒 Cyber Security
 ├── 📊 Data Science
-├── 🎨 UI-UX
-├── 🏆 Hackathons
-├── 📜 Workshops
 └── 🎖️ Internships
 ```
 
@@ -81,9 +67,6 @@ I believe technology evolves every day, and continuous learning is the key to be
 - Spring Boot
 - React
 - Cloud Computing
-- DevOps
-- System Design
-- Cyber Security
 
 ---
 
