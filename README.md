@@ -106,3 +106,5 @@ This repository includes certificates from platforms such as:
 I believe technology evolves every day, and learning should never stop. This repository reflects my dedication to improving my technical expertise through continuous education.
 
 ---
+
+# 🌟 Future Goals
