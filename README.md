@@ -110,3 +110,5 @@ I believe technology evolves every day, and learning should never stop. This rep
 # 🌟 Future Goals
 
 - 📚 Earn more industry-recognized certifications
+- ☁️ Advanced Cloud Certifications
+- 🤖 AI & Machine Learning Specializations
