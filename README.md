@@ -86,3 +86,5 @@ This repository includes certificates from platforms such as:
 # 🚀 Why This Repository?
 
 ✨ Easy access to all my certifications
+
+✨ Demonstrates continuous learning
