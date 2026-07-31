@@ -25,4 +25,6 @@ These certifications demonstrate my commitment to continuous learning and stayin
 
 # 🎯 Objectives
 
+✔ Showcase my learning journey
+
 
