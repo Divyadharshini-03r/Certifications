@@ -31,4 +31,6 @@ These certifications demonstrate my commitment to continuous learning and stayin
 
 ✔ Demonstrate continuous upskilling
 
+✔ Build a strong professional portfolio
+
 
