@@ -14,26 +14,13 @@ This repository serves as a centralized collection of all my professional certif
 
 These certifications reflect my commitment to continuous learning and staying updated with modern technologies in:
 
-- 💻 Software Development
-- 🤖 Artificial Intelligence
-- 🌐 Web Development
-- 📊 Data Science
-- 🔒 Cyber Security
-- 🗄️ Databases
+  💻 Software Development
+  🤖 Artificial Intelligence
+  🌐 Web Development
+  📊 Data Science
+  🔒 Cyber Security
+  🗄️ Databases
 
----
-
-# 🎯 Repository Structure
-
-```
-📂 Certifications
-│
-├── 🤖 Artificial Intelligence
-├── 💻 Programming
-├── 🌐 Web Development
-├── 📊 Data Science
-└── 🎖️ Internships
-```
 
 ---
 
@@ -61,12 +48,12 @@ I believe technology evolves every day, and continuous learning is the key to be
 
 # 📈 Current Learning Focus
 
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Full Stack Development
-- Spring Boot
-- React
-- Cloud Computing
+ Artificial Intelligence
+ Large Language Models (LLMs)
+ Full Stack Development
+ Spring Boot
+ React
+ Cloud Computing
 
 ---
 
@@ -74,12 +61,12 @@ I believe technology evolves every day, and continuous learning is the key to be
 
 contain certifications from platforms such as:
 
-- Coursera
-- Cisco Networking Academy
-- Infosys Springboard
-- AWS Academy
-- NPTEL
-- Salesforce
+Coursera
+Cisco Networking Academy
+Infosys Springboard
+AWS Academy
+NPTEL
+Salesforce
 
 *(Updated regularly as new certifications are earned.)*
 
