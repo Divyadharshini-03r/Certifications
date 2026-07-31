@@ -90,3 +90,5 @@ This repository includes certificates from platforms such as:
 ✨ Demonstrates continuous learning
 
 ✨ Validates my technical knowledge
+
+✨ Helps recruiters verify completed courses
