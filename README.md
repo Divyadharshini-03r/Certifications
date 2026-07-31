@@ -33,4 +33,6 @@ These certifications demonstrate my commitment to continuous learning and stayin
 
 ✔ Build a strong professional portfolio
 
+✔ Track completed certifications
+
 
