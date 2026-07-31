@@ -69,6 +69,17 @@ These certifications demonstrate my commitment to continuous learning and stayin
 
 # 📚 Certification Sources
 
+This repository includes certificates from platforms such as:
+
+- 🏆 Coursera
+- 💙 Infosys Springboard
+- 🤖 Salesforce
+- 🔵 Cisco Networking Academy
+- 🟠 Oracle Academy
+- 🔷 Microsoft Learn
+- 🔶 Google
+- 🟢 NPTEL
+- 🎓 Internships (offline & online)
 
 
 
