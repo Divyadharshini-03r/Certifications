@@ -92,3 +92,7 @@ This repository includes certificates from platforms such as:
 ✨ Validates my technical knowledge
 
 ✨ Helps recruiters verify completed courses
+
+✨ Organized collection of achievements
+
+---
