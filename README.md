@@ -61,6 +61,10 @@ These certifications demonstrate my commitment to continuous learning and stayin
 - Spring Boot
 - Node.js
 
+ ### 🤖 Artificial Intelligence
+- Machine Learning
+- Generative AI
+
 
 
 
