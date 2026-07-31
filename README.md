@@ -96,3 +96,13 @@ This repository includes certificates from platforms such as:
 ✨ Organized collection of achievements
 
 ---
+
+
+# 📈 Learning Philosophy
+
+> **"The beautiful thing about learning is that nobody can take it away from you."**  
+> — B.B. King
+
+I believe technology evolves every day, and learning should never stop. This repository reflects my dedication to improving my technical expertise through continuous education.
+
+---
