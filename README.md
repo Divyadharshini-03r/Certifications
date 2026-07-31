@@ -27,4 +27,5 @@ These certifications demonstrate my commitment to continuous learning and stayin
 
 ✔ Showcase my learning journey
 
+✔ Validate technical skills
 
