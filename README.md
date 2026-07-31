@@ -112,3 +112,6 @@ I believe technology evolves every day, and learning should never stop. This rep
 - 📚 Earn more industry-recognized certifications
 - ☁️ Advanced Cloud Certifications
 - 🤖 AI & Machine Learning Specializations
+- 🔐 Cyber Security Certifications
+- 💼 Professional Software Development Certifications
+
