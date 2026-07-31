@@ -48,4 +48,13 @@ These certifications demonstrate my commitment to continuous learning and stayin
 
 ---
 
+# 💡 Learning Areas
+
+### 💻 Programming
+- Java
+- JavaScript
+
+
+
+
 
