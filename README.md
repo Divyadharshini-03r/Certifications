@@ -29,3 +29,6 @@ These certifications demonstrate my commitment to continuous learning and stayin
 
 ✔ Validate technical skills
 
+✔ Demonstrate continuous upskilling
+
+
