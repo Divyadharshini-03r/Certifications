@@ -8,7 +8,7 @@
 
 # 📖 About
 
-Welcome to my **Certifications Repository**.
+### Welcome to my **Certifications Repository**.
 
 This repository serves as a centralized collection of all my professional certifications, workshop completions, internships, hackathons, and online learning achievements.
 
