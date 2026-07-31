@@ -35,4 +35,17 @@ These certifications demonstrate my commitment to continuous learning and stayin
 
 ✔ Track completed certifications
 
+```
+📁 Certifications
+│
+├── 🏆 Programming
+├── ☁️ Cloud Computing
+├── 🤖 Artificial Intelligence
+├── 📊 Data Science
+├── 💻 IoT
+└── 📜 Other Certifications
+```
+
+---
+
 
