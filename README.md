@@ -12,6 +12,9 @@
 
 This repository serves as a centralized collection of all my professional certifications, workshop completions, internships, hackathons, and online learning achievements.
 
+---
+# Platforms 📄
+
  ### These certifications reflect my commitment to continuous learning and staying updated with modern technologies in:
 
   💻 Software Development
